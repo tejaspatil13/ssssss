@@ -1,0 +1,9 @@
+@import "@fontsource/great-vibes";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: sans-serif;
+  background-color: #fffaf0;
+}
